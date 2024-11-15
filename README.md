@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ivan Korotych,Aspiring developer with experience in C# and Python. Worked with ASP.NET Core, Flask, and SQL, building web applications and backend systems. Always learning and growing! ⚡</div>  
+### <div align="center">I'm Ivan Korotych, aspiring developer with experience in C# and Python. Worked with ASP.NET Core, Flask, and SQL, building web applications and backend systems. Always learning and growing! ⚡</div>  
   
 
 - 🔭 I’m currently working on creating own portfolio site  
