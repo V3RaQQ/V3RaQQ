@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on creating own portfolio site  
   
 
-- 🌱 I’m currently learning Flask and SQL  
+- 🌱 I’m currently learning Flask and JavaScript.  
   
 
 <br/>  
